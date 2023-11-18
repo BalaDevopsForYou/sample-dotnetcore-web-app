@@ -1,0 +1,7 @@
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\sample.exe
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\sample.dll
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\sample.deps.json
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\sample.runtimeconfig.json
+C:\Dotnetcorewebapp\sample\sample\obj\Release\net7.0\PubTmp\Out\sample.pdb
